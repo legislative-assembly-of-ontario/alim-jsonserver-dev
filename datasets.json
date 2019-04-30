@@ -1,4 +1,4 @@
-{
+{"members":[{"mpp_id":2,"first_name":"Ted","last_name":"Arnott","status_id":1,"current_riding":{"en":"Wellington—Halton Hills","fr":null},"in_parliaments":[35,36,37,38,39,40,41,42]},{"mpp_id":100,"first_name":"Jim","last_name":"Wilson","status_id":1,"current_riding":{"en":"Simcoe—Grey","fr":null},"in_parliaments":[35,36,37,38,39,40,41,42]},{"mpp_id":2111,"first_name":"Kathleen O.","last_name":"Wynne","status":1,"current_riding":{"en":"Don Valley West","fr":"Don Valley-Oues"},"in_parliaments":[38,39,40,41,42]}],
   "party_affiliation": [
     {
       "id": "7688",
@@ -482,7 +482,7 @@
       "committee_name": ""
     }
   ],
-  "members": [
+  "membersola": [
     {
       "id": 7493,
       "first_name": "Deepak",
